@@ -4,9 +4,9 @@
 
 #### the objective of the project is to predict Riyadh house `prices` by given features such as area, neighborhood...etc. 
 
-![Images/housescorr.png](attachment:housescorr.png)
+![](Images/housescorr.png)
 
-![Images/housescorr1.png](attachment:housescorr1.png)
+![](Images/housescorr1.png)
 
 **This two graphs show th between features and target**. 
 
